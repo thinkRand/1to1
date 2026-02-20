@@ -18,8 +18,8 @@ A customizable AutoHotkey script that maps 12 keyboard keys (Q W E R A S D F Z X
 
 ## 🎮 Quick Start
 
-1. Install [AutoHotkey](https://www.autohotkey.com/) v1.1 or later
-2. Download `12-point-click.ahk`
+1. Install [AutoHotkey](https://www.autohotkey.com/) v2 or later
+2. Download `1to1.ahk`
 3. Double-click to run
 4. Press any key from Q to V to click at its default position
 
