@@ -5,7 +5,10 @@
 
 A customizable AutoHotkey script that maps 12 keyboard keys (Q W E R A S D F Z X C V) to specific screen positions. Click any key to instantly click at its assigned location. Perfect for gaming, repetitive tasks, or any situation where you need quick access to multiple screen positions.
 
-![Demo Placeholder](screenshots/demo.gif)
+<div align="center">
+  <img src="screenshots/demo.gif" alt="12-Point Click Automation Demo" width="800"/>
+  <p><em>Drag circles to reposition, press keys to click</em></p>
+</div>
 
 ## ✨ Features
 
